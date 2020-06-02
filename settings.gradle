@@ -1,2 +1,2 @@
-rootProject.name='KotlinTest'
+rootProject.name='KotlinTestingApp'
 include ':app'
